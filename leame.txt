@@ -1,0 +1,42 @@
+
+(ve_...) D:\practian-ioteca-project o XXX\ioteca_service>manage.py runserver 9000
+Performing system checks...
+
+System check identified no issues (0 silenced).
+May 04, 2016 - 12:50:12
+Django version 1.9.5, using settings 'ioteca_main.settings'
+Starting development server at http://127.0.0.1:9000/
+Quit the server with CTRL-BREAK.
+
+
+// USER : admin
+// PASSWORD : 12345
+
+
+Backup database
+-------------------
+(ve_...) D:\practian-ioteca-project o XXX\ioteca\ioteca_service>manage.py dumpdata > fixtures/ini_data.json --exclude=corsheaders
+
+
+Load o restore database
+-------------------
+See in the settings.py setting for FIXTURE_DIRS
+   (ve_...) ...>manage.py loaddata ini_data
+else 
+ 	(ve_...) ...>manage.py loaddata fixtures\ini_data.json
+
+
+Clean database
+-------------------
+Run the following command:
+
+    (ve_...) ..._api>manage.py flush
+    
+    and exec in admin db
+
+	  >delete from django_content_type;
+
+	  >delete from auth_permission;
+
+
+
