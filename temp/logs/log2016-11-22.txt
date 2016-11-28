@@ -1,0 +1,26 @@
+[2016-11-22 16:37:58] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-22 23:10:13] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-23 04:22:09] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-23 13:58:31] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [asullom] [GET] User is authenticated
+[2016-11-23 19:08:19] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-23 22:04:27] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-24 06:47:06] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-24 07:07:16] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-24 07:28:16] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-24 14:48:49] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [asullom] [GET] User is authenticated
+[2016-11-24 21:20:19] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [asullom] [GET] User is authenticated
+[2016-11-24 21:31:01] [INFO] [ioteca_service_apps.utils.permissions:130] [/api/catalogo/autors/f8197bd5-1f93-4f67-a3a4-0abe6cb10841/] [127.0.0.1] [asullom] [PUT] Permission denied. You don't have permission to ['catalogo.change_autor'].
+[2016-11-24 22:57:57] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [asullom] [GET] User is authenticated
+[2016-11-25 05:01:15] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-25 05:03:36] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-25 06:12:38] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [asullom] [GET] User is authenticated
+[2016-11-25 06:15:41] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [asullom] [GET] User is authenticated
+[2016-11-25 06:16:07] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-25 06:16:47] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [asullom] [GET] User is authenticated
+[2016-11-25 06:18:47] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-25 06:44:23] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [asullom] [GET] User is authenticated
+[2016-11-25 06:49:31] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-25 17:05:53] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-25 17:20:06] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-25 17:46:58] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
+[2016-11-25 17:53:46] [INFO] [ioteca_service_apps.auths_api.user_view:78] [/api/auths/localuserinfo/] [127.0.0.1] [admin] [GET] User is authenticated
